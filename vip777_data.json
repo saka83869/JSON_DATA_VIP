@@ -1,7 +1,7 @@
 {
     "data": {
         "force_update": "0",
-        "version_code": "2",
+        "version_code": "1",
         "is_update": "0",
         "link_apk": "8BgNLnatpfNKl2aZDAwUt+5aYrgEZll9pG/EVhfBdTt9Uz8VWbrJt7Az9J06aNY0gsZ2vW+nC6hn7b5WpGqlRQ==",
         "base_url": "",
@@ -11,8 +11,8 @@
         "is_update_ios": "0",
         "link_ipa": "j2xjNIekKvIwDjTv+I1x03WToMRfFo0Fep7FbTyGzpI=",
         "link_main": "PGoZ+X6ZCAnfny2AJl/3ArfCkQmXDhcnhMyNz35mgRU=",
-        "link_backup": "83klbXGDmgtqqZSzltgb3u8Ibgt8+6zK/qrcaFFTxGUQ42CHFsuvG1g2Lg1jFGLgm3ct7x95DBl9v/IK+608nfsg0oGXVhET4G9TCVe3cNyx+jFstwN1PihJnFeLYyO0rRLev7I/BubtD7O73pkSmpYktE5HBK/T9jY/aR57aVFIBoNyXjzFFNrm4r+ROm1S",
-        "link_backup_ios": "83klbXGDmgtqqZSzltgb3u8Ibgt8+6zK/qrcaFFTxGUQ42CHFsuvG1g2Lg1jFGLgm3ct7x95DBl9v/IK+608nfsg0oGXVhET4G9TCVe3cNyx+jFstwN1PihJnFeLYyO0rRLev7I/BubtD7O73pkSmpYktE5HBK/T9jY/aR57aVFIBoNyXjzFFNrm4r+ROm1S",
+        "link_backup": "83klbXGDmgtqqZSzltgb3jGJtK/CM8icJMpSgUmWjelgDQrT2gHL3sGfJEfDdl+Oxkf1wEJV6WDSVzLTS4RY17EYFl8vFisvzEj9U75+rt4AgEEwTr1JmLSlzUVmzCbHR9hEHLsPrdQV8PotcVBF8Rlk0bckr+dQ0wHNmUqLCrRmYe7/WuKgEECdGKxkaXP0FmhUrcgXS2OIUHvu4VseCzWzEYJ0S4BYLOOEAeyEOpU=",
+        "link_backup_ios": "83klbXGDmgtqqZSzltgb3jGJtK/CM8icJMpSgUmWjelgDQrT2gHL3sGfJEfDdl+Oxkf1wEJV6WDSVzLTS4RY17EYFl8vFisvzEj9U75+rt4AgEEwTr1JmLSlzUVmzCbHR9hEHLsPrdQV8PotcVBF8Rlk0bckr+dQ0wHNmUqLCrRmYe7/WuKgEECdGKxkaXP0FmhUrcgXS2OIUHvu4VseCzWzEYJ0S4BYLOOEAeyEOpU=",
         "link_open_browser": "cged/EFYtAYlp5GIx2eGsw==",
         "link_open_browser_detail": "cged/EFYtAYlp5GIx2eGsw==",
         "link_open_tab_agent": "cged/EFYtAYlp5GIx2eGsw==",
