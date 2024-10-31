@@ -8,52 +8,12 @@
         "link_backup": "",
         "dns": [
             {
-                "name": "Google Public DNS(DoT)",
-                "servers": [
-                    "8.8.8.8",
-                    "8.8.4.4",
-                    "2001:4860:4860::8888",
-                    "2001:4860:4860::8844"
-                ],
-                "serverName": "dns.google"
-            },
-            {
-                "name": "Google Public DNS",
-                "servers": [
-                    "8.8.8.8",
-                    "8.8.4.4",
-                    "2001:4860:4860::8888",
-                    "2001:4860:4860::8844"
-                ],
-                "serverName": "https://dns.google/dns-query"
-            },
-            {
-                "name": "1.1.1.1(DoT)",
-                "servers": [
-                    "1.1.1.1",
-                    "1.0.0.1",
-                    "2606:4700:4700::1111",
-                    "2606:4700:4700::1001"
-                ],
-                "serverName": "cloudflare-dns.com"
-            },
-            {
                 "name": "1.1.1.1",
                 "servers": [
                     "1.1.1.1",
                     "1.0.0.1",
                     "2606:4700:4700::1111",
                     "2606:4700:4700::1001"
-                ],
-                "serverName": "https://cloudflare-dns.com/dns-query"
-            },
-            {
-                "name": "1.1.1.1 (Block Malware DoT)",
-                "servers": [
-                    "1.1.1.2",
-                    "1.0.0.2",
-                    "2606:4700:4700::1112",
-                    "2606:4700:4700::1002"
                 ],
                 "serverName": "cloudflare-dns.com"
             },
@@ -65,17 +25,17 @@
                     "2606:4700:4700::1112",
                     "2606:4700:4700::1002"
                 ],
-                "serverName": "https://security.cloudflare-dns.com/dns-query"
+                "serverName": "cloudflare-dns.com"
             },
             {
-                "name": "Quad9 (Block Malware DoT)",
+                "name": "Google Public DNS",
                 "servers": [
-                    "9.9.9.9",
-                    "149.112.112.112",
-                    "2620:fe::fe",
-                    "2620:fe::9"
+                    "8.8.8.8",
+                    "8.8.4.4",
+                    "2001:4860:4860::8888",
+                    "2001:4860:4860::8844"
                 ],
-                "serverName": "dns.quad9.net"
+                "serverName": "dns.google"
             },
             {
                 "name": "Quad9 (Block Malware)",
@@ -85,17 +45,7 @@
                     "2620:fe::fe",
                     "2620:fe::9"
                 ],
-                "serverName": "https://dns.quad9.net/dns-query"
-            },
-            {
-                "name": "AdGuard DNS(DoT)",
-                "servers": [
-                    "94.140.14.140",
-                    "94.140.14.141",
-                    "2a10:50c0::1:ff",
-                    "2a10:50c0::2:ff"
-                ],
-                "serverName": "dns-unfiltered.adguard.com"
+                "serverName": "dns.quad9.net"
             },
             {
                 "name": "AdGuard DNS",
@@ -105,17 +55,7 @@
                     "2a10:50c0::1:ff",
                     "2a10:50c0::2:ff"
                 ],
-                "serverName": "https://dns-unfiltered.adguard.com/dns-query"
-            },
-            {
-                "name": "AdGuard DNS (Block Ads / Trackers) (DoT)",
-                "servers": [
-                    "94.140.14.14",
-                    "94.140.15.15",
-                    "2a10:50c0::ad1:ff",
-                    "2a10:50c0::ad2:ff"
-                ],
-                "serverName": "dns.adguard.com"
+                "serverName": "dns-unfiltered.adguard.com"
             },
             {
                 "name": "AdGuard DNS (Block Ads / Trackers)",
@@ -125,17 +65,7 @@
                     "2a10:50c0::ad1:ff",
                     "2a10:50c0::ad2:ff"
                 ],
-                "serverName": "https://dns.adguard.com/dns-query"
-            },
-            {
-                "name": "Freifunk Muenchen DNS (DoT)",
-                "servers": [
-                    "5.1.66.255",
-                    "185.150.99.255",
-                    "2001:678:e68:f000::",
-                    "2001:678:ed0:f000::"
-                ],
-                "serverName": "dot.ffmuc.net"
+                "serverName": "dns.adguard.com"
             },
             {
                 "name": "Freifunk Muenchen DNS",
@@ -145,7 +75,14 @@
                     "2001:678:e68:f000::",
                     "2001:678:ed0:f000::"
                 ],
-                "serverName": "https://doh.ffmuc.net/dns-query"
+                "serverName": "dot.ffmuc.net"
+            },
+            {
+                "name": "LibreDNS",
+                "servers": [
+                    "116.202.176.26"
+                ],
+                "serverName": "dot.libredns.gr"
             }
         ]
     }
