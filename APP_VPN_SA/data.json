@@ -84,6 +84,18 @@
                 ],
                 "serverName": "dot.libredns.gr"
             }
+        ],
+        "vpn" : [
+               {
+                "name": "Singapore",
+                "servers": "sing1",
+                "fileName": "sing1",
+                "serverUrl": "LVGykKuv03kBEVQqAnz90k0+JvP/WsrSRTlYDKp6FmHA1v0QhE5QDqE0+2dDsJjjOVq5nLze65QSVOU45aBxZ/hmPBzyPpzQj8Xh4qnF+3o=",
+                "auth": "1",
+                "user": "/yanhv7mEurIJFjMM1KwgQ==",
+                "passWord": "gomfU4lOIy1cHT5zYb6QDA=="
+            }  
+
         ]
     }
 }
