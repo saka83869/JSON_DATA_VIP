@@ -117,6 +117,36 @@
                 "auth": "1",
                 "user": "/yanhv7mEurIJFjMM1KwgQ==",
                 "passWord": "gomfU4lOIy1cHT5zYb6QDA=="
+            },
+            {
+                "name": "Canada - Montreal",
+                "servers": "ca_montreal_1",
+                "fileName": "ca_montreal_1",
+                "flag": "https://www.worldometers.info/img/flags/ca-flag.gif",
+                "serverUrl": "LVGykKuv03kBEVQqAnz90k0+JvP/WsrSRTlYDKp6FmHA1v0QhE5QDqE0+2dDsJjjOVq5nLze65QSVOU45aBxZyG4bsiPDaVw+CJLz3Am6zQB5l7dmyoJ+Q0vK7Oybdqd",
+                "auth": "1",
+                "user": "/yanhv7mEurIJFjMM1KwgQ==",
+                "passWord": "gomfU4lOIy1cHT5zYb6QDA=="
+            },
+            {
+                "name": "Canada - Ontario",
+                "servers": "ca_ontario_2",
+                "fileName": "ca_ontario_2",
+                "flag": "https://www.worldometers.info/img/flags/ca-flag.gif",
+                "serverUrl": "LVGykKuv03kBEVQqAnz90k0+JvP/WsrSRTlYDKp6FmHA1v0QhE5QDqE0+2dDsJjjOVq5nLze65QSVOU45aBxZ/4Bx8RDY+AjyxaQ4dEoatfgTBxdgMXKG+69xLDCkomh",
+                "auth": "1",
+                "user": "/yanhv7mEurIJFjMM1KwgQ==",
+                "passWord": "gomfU4lOIy1cHT5zYb6QDA=="
+            },
+            {
+                "name": "Canada - Toronto",
+                "servers": "ca_toronto",
+                "fileName": "ca_toronto",
+                "flag": "https://www.worldometers.info/img/flags/ca-flag.gif",
+                "serverUrl": "LVGykKuv03kBEVQqAnz90k0+JvP/WsrSRTlYDKp6FmHA1v0QhE5QDqE0+2dDsJjjOVq5nLze65QSVOU45aBxZ2FItzS3htI35lS834xGxQFCDTTnjpnEbJQR9HjW5J5/",
+                "auth": "1",
+                "user": "/yanhv7mEurIJFjMM1KwgQ==",
+                "passWord": "gomfU4lOIy1cHT5zYb6QDA=="
             }
         ]
     }
