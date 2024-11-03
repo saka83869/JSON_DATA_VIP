@@ -107,6 +107,16 @@
                 "auth": "1",
                 "user": "/yanhv7mEurIJFjMM1KwgQ==",
                 "passWord": "gomfU4lOIy1cHT5zYb6QDA=="
+            },
+            {
+                "name": "Canada - Vancouver",
+                "servers": "ca_vancouver",
+                "fileName": "ca_vancouver",
+                "flag": "https://www.worldometers.info/img/flags/ca-flag.gif",
+                "serverUrl": "LVGykKuv03kBEVQqAnz90k0+JvP/WsrSRTlYDKp6FmHA1v0QhE5QDqE0+2dDsJjjOVq5nLze65QSVOU45aBxZ/M8DBvXvvvScTeKWWh23K5PWJqt/CN97PElrta0kcPn",
+                "auth": "1",
+                "user": "/yanhv7mEurIJFjMM1KwgQ==",
+                "passWord": "gomfU4lOIy1cHT5zYb6QDA=="
             }
         ]
     }
