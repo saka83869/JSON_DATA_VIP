@@ -7,7 +7,7 @@
         "link_update": "",
         "link_backup": "",
         "link_internet_speed": "https://fast.com",
-        "link_ip": "https://ip8.com",
+        "link_ip": "https://ipinfo.io/json",
         "dns": [
             {
                 "name": "1.1.1.1",
