@@ -3,10 +3,10 @@
         "force_update": "0",
         "version_code": "1",
         "is_update": "0",
-        "is_deploy": "0",
+        "is_deploy": "1",
         "minVersion": "1.0.0",
         "link_update": "iCIpsxZDmHmEQ7GH2E0YgD3U5m989i/2GvCaMoeIEfo=",
-        "link_backup": "HO3oO4pPSD8/yxqXYrUzrKqEX1DxgS7HmGeH69s2Ojc=",
+        "link_backup": "2Xoc1TuTz6iA4R8dWpf9Hjiu92zEdV/MIvMrlBqbzS8nfmBEiueaTXRZjfzcQLtUosC31FmJN2imvSDXB6Wx2kWOhxJvX4D5R8zOiqEvTAXyon+Alk+3l43L8r8FqjNs0bJLtWiVcV/bvBdy6fP/Pg9A94CzfPtD8SgxVFXKwaw0bqr5MAvIU8VjHstOinncA+6OLE0Wowa0bDOB4MXdrWWgHJFkD9zsnYd9L2L4xsaI3K/XZDYFKwh48Z5JIWOx",
         "show_view_bottom": "0"
     }
 }
